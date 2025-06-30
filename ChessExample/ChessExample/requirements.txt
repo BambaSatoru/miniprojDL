@@ -1,0 +1,7 @@
+pygame
+torch
+numpy
+python-chess
+matplotlib
+pygame.draw.rect(screen, (200, 0, 200), ob)
+        screen.blit(font.render("Online", True, (255, 255, 255)), (ob.x + 10, ob.y + 10))
